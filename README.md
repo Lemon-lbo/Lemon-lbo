@@ -6,10 +6,15 @@ I enjoy working on projects that blend theoretical foundations with practical ap
 
 You can drop me an [email](mailto:trishita.cmi@gmail.com).
 
-![Trishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemon-lbo&show_icons=true&theme=tokyonight)
+## GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trishitapatra&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishitapatra&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishitapatra&theme=gruvbox" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trishitapatra&theme=gruvbox" alt="Contribution Graph" />
+</p>
 
-<!---
-Lemon-lbo/Lemon-lbo is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
