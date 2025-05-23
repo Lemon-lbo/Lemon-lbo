@@ -18,12 +18,8 @@ You can drop me an [email](mailto:trishita.cmi@gmail.com).
     </tr>
   </table>
 
-  <!-- Streak card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemon-lbo&theme=gruvbox" alt="GitHub Streak" width="500" />
-  <br><br>
-
-  <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemon-lbo&theme=gruvbox" alt="Contribution Graph" width="800" />
+ <!-- Contribution Graph with Gaussian style and legend -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemon-lbo&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
 >
