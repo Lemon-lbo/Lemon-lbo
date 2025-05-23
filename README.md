@@ -6,6 +6,7 @@ I enjoy working on projects that blend theoretical foundations with practical ap
 
 You can drop me an [email](mailto:trishita.cmi@gmail.com).
 
+![Trishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 
 <!---
