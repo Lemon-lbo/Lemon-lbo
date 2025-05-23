@@ -9,12 +9,12 @@ You can drop me an [email](mailto:trishita.cmi@gmail.com).
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishitapatra&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lemon-lbo&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishitapatra&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-lbo&layout=compact&theme=gruvbox" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishitapatra&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemon-lbo&theme=gruvbox" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trishitapatra&theme=gruvbox" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemon-lbo&theme=gruvbox" alt="Contribution Graph" />
 </p>
 
