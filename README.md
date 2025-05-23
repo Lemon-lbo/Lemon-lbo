@@ -6,15 +6,25 @@ I enjoy working on projects that blend theoretical foundations with practical ap
 
 You can drop me an [email](mailto:trishita.cmi@gmail.com).
 
-## GitHub Statistics
+<h2 align="center">GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lemon-lbo&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-lbo&layout=compact&theme=gruvbox" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemon-lbo&theme=gruvbox" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemon-lbo&theme=gruvbox" alt="Contribution Graph" />
-</p>
+<div align="center">
+
+  <!-- Top two cards side by side -->
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Lemon-lbo&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="200"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemon-lbo&layout=compact&theme=gruvbox" alt="Top Languages" height="200"/></td>
+    </tr>
+  </table>
+
+  <!-- Streak card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemon-lbo&theme=gruvbox" alt="GitHub Streak" width="500" />
+  <br><br>
+
+  <!-- Contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemon-lbo&theme=gruvbox" alt="Contribution Graph" width="800" />
+
+</div>
+>
 
