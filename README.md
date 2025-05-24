@@ -6,6 +6,8 @@ I enjoy working on projects that blend theoretical foundations with practical ap
 
 You can drop me an [email](mailto:trishita.cmi@gmail.com).
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lemon-lbo&theme=nord_dark)
+
  <!-- 
 <h2 align="center">GitHub Statistics</h2>
 
